@@ -1,0 +1,14 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_textfield_modern",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_textfield_modern",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"1.0",
+  "scriptType":0,
+}
