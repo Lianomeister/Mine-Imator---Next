@@ -1,0 +1,14 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_panel_focus_indicator",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_panel_focus_indicator",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"1.0",
+  "scriptType":0,
+}

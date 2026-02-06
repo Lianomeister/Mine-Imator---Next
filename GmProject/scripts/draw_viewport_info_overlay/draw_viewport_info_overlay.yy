@@ -1,0 +1,14 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_viewport_info_overlay",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_viewport_info_overlay",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"1.0",
+  "scriptType":0,
+}
